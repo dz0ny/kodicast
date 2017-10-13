@@ -12,3 +12,11 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+bin
+pkg
+src/kodicast/vendor
+src/github.com
+src/golang.org
+src/gopkg.in
+src/sourcegraph.com
+kodicast-*-*
